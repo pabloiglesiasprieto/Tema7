@@ -21,7 +21,7 @@ public class Ejercicio1 {
 		Scanner sc = new Scanner(System.in);
 
 		// Declaramos una variable para una consulta.
-		String query = "select * from estudiantes";
+		String query = "";
 
 		// Declaramos variables para insertar datos.
 		String nombre = "";
